@@ -1,0 +1,29 @@
+{
+  "name": "irancho",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavogranja/projeto_irancho.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavogranja/projeto_irancho/issues"
+  },
+  "homepage": "https://github.com/gustavogranja/projeto_irancho#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mariadb": "^2.5.2",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.3.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7",
+    "sequelize-cli": "^6.2.0"
+  }
+}
